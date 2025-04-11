@@ -1,4 +1,6 @@
 # ReadySetVersus
+Welcome to ReadySetVersus! This is my local version.
+This is the remote version.
 
 ## Table of Contents
 - [About](#about)
