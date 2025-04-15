@@ -1,3 +1,4 @@
+yml
 name: CI
 
 # Controls when the workflow will run
@@ -34,4 +35,3 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-
